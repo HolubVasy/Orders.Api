@@ -38,6 +38,7 @@
 #*.Publish.xml
 ipch/
 obj/
+**/obj/
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
@@ -100,3 +101,18 @@ dacpacs/
 
 # Escrow files
 artifacts/
+/Orders.Api/obj/Debug/net10.0/apphost.exe
+/Orders.Api/obj/Debug/net10.0/Orders.Api.AssemblyInfo.cs
+/Orders.Api/obj/Debug/net10.0/Orders.Api.AssemblyInfoInputs.cache
+/Orders.Api/obj/Debug/net10.0/Orders.Api.assets.cache
+/Orders.Api/obj/Debug/net10.0/Orders.Api.csproj.CoreCompileInputs.cache
+/Orders.Api/obj/Debug/net10.0/Orders.Api.csproj.FileListAbsolute.txt
+/Orders.Api/obj/Debug/net10.0/Orders.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Orders.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Orders.Api/obj/Orders.Api.csproj.nuget.dgspec.json
+/Orders.Api/obj/Orders.Api.csproj.nuget.g.targets
+/Orders.Api/obj/project.assets.json
+/Orders.Api/obj/project.nuget.cache
+/Orders.Api/obj/project.packagespec.json
+/Orders.Api/obj/rider.project.model.nuget.info
+/Orders.Api/obj/rider.project.restore.info
